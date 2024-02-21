@@ -1,1 +1,1 @@
-# ggdcoop.github.io
+# a MVP website of GGD cooperative
